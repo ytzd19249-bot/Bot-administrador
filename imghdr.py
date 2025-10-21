@@ -1,3 +1,3 @@
-# imghdr.py - versión simple para compatibilidad con Telegram en Python 3.13+
+# imghdr.py - parche para compatibilidad con python-telegram-bot
 def what(file, h=None):
     return None
